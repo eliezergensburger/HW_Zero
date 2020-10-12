@@ -10,6 +10,7 @@ namespace HW_Zero
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hell Oh World!!");
         }
     }
 }
